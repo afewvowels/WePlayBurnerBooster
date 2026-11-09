@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2026. 11. 04
+  Features:
+    - Add code to handle different fuel types for entities that take fuel that aren't standard burners.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2026. 11. 04
+  Features:
+    - Created mod.

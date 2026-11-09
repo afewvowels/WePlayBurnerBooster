@@ -1,0 +1,11 @@
+{
+  "name": "WePlayBurnerBooster",
+  "version": "0.0.2",
+  "title": "WePlay: Burner Booster",
+  "author": "WePlay",
+  "factorio_version": "2.1",
+  "description": "Free fuel when you place down burner entities. Trains included! Fully customizable fuel types in settings.",
+  "dependencies": [
+    "base"
+  ]
+}
